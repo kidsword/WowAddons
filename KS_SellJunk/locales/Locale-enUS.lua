@@ -3,7 +3,7 @@ local L = AceLibrary("AceLocale-2.2"):new("KS_SellJunk")
 L:RegisterTranslations("enUS", function() return {
 		--commands
 		--["/KS_SellJunk"] = true,
-		["/apx"] = true,
+		["/ksj"] = true,
 		["options"] = true,
 		["Show options panel."] = true,
 		["add"] = true,

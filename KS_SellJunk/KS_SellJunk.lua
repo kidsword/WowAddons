@@ -98,7 +98,7 @@ function KS_SellJunk:OnInitialize()
 	eList = self.db.account[realm][name].exceptionList
 			
 	--register chat commands
-    self:RegisterChatCommand({"/KS_SellJunk", L["/apx"]}, {
+    self:RegisterChatCommand({"/KS_SellJunk", L["/ksj"]}, {
 		type = "group",
 		args = {
 			[L["options"]] = {

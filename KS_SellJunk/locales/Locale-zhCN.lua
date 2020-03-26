@@ -3,7 +3,7 @@ local L = AceLibrary("AceLocale-2.2"):new("KS_SellJunk")
 L:RegisterTranslations("zhCN", function() return {
 		--commands
 		--["/KS_SellJunk"] = "/autoprofix",
-		["/apx"] = "/apx",
+		["/ksj"] = "/ksj",
 		["options"] = "选项",
 		["Show options panel."] = "显示设定选项",
 		["add"] = "添加例外",

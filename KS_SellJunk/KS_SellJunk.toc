@@ -4,7 +4,7 @@
 ## Notes-zhCN: 在和NPC交易时一键/自动贩卖灰色垃圾物品，支持过滤
 ## Interface: 30300
 ## Version: 0.01
-## Author: 
+## Author: Kidsword
 ## X-Credits: Bigzero
 ## SavedVariables: KS_SellJunkDB, KS_SellJunk_ExceptionlistVersion, KS_SellJunk_Settings
 ## SavedVariablesPerCharacter: KS_SellJunkDBPerChar
